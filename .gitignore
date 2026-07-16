@@ -1,0 +1,7 @@
+# Windows / OneDrive noise
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+*.swp
